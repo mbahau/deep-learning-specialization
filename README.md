@@ -9,7 +9,7 @@ This repository is a curated showcase of my journey through the **Deep Learning 
 
 These are the five courses that form the Deep Learning Specialization:
 
-- [1. Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)  
+- [1. Neural Networks and Deep Learning](https://coursera.org/share/9d474bc7abc2866db4f3553d81563c7f)  
 
 > 📂 All certificate files are available in the [`certificates/`](./certificates) folder.
 
