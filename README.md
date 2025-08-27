@@ -11,6 +11,7 @@ These are the five courses that form the Deep Learning Specialization:
 
 - [1. Neural Networks and Deep Learning](https://coursera.org/share/9d474bc7abc2866db4f3553d81563c7f)  
 - [2. Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://coursera.org/share/96328efc79f093a18050d3cbd3275758)
+- [3. Structuring Machine Learning Projects](https://coursera.org/share/ff66e8c04c935b5576770f208d8a8fb1)
 
 > 📂 All certificate files are available in the [`certificates/`](./certificates) folder.
 
